@@ -12,7 +12,7 @@ toc: false
 
 From here you can learn all about Istio's architecture and how to deploy and use Istio.
 
-- [Concepts]({{home}}/docs/concepts/). Concepts explain some significant aspect of Istio. This
+- [Concepts]({{home}}/docs/concepts/). Concepts explain some significant aspects of Istio. This
 is where you can learn about what Istio does and how it does it.
 
 - [Setup]({{home}}/docs/setup/). Setup contains instructions for installing
